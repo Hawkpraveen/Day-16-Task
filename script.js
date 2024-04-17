@@ -1,4 +1,4 @@
-const span=document.getElementById("span");
+const span=document.getElementById("span"); 
 
 setTimeout(()=>{
     span.innerText="10";
