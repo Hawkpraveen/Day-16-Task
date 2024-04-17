@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 300px;
+    font-size: 80px;
+}
+span{
+    background-color: black;
+    color: orange;
+}
+body{
+    background-color: antiquewhite !important;
+}
